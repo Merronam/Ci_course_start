@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CI_course_start_MK'
+project = 'Ci_course_start_MK'
 copyright = '2024, MK'
 author = 'MK'
 
